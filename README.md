@@ -89,5 +89,3 @@ Java
             }
         });
 ```
-
-Coder [Subhajit De](https://github.com/subhajitde)
