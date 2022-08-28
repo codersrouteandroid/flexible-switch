@@ -51,6 +51,13 @@ XML
             />
 ```
 
+An example activity is in this project to show all the functionalities of this switch, for more information check out the video below:
+
+
+
+https://user-images.githubusercontent.com/111636054/187068136-7761525d-4f95-4d3b-8297-9b94c19eff50.mp4
+
+
 Use these following properties in your XML to change your FlexibleSwitch.
 
 
