@@ -49,7 +49,7 @@ XML
             />
 ```
 
-An example activity is in this project to show all the functionalities of this switch, for more information check out the video below:
+An example activity is in this project to show all the functionalities of this switch, for more information check out this video below:
 
 
 
