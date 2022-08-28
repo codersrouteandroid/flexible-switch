@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlexibleSwitch">
+        <attr name="android:fontFamily"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="android:textSize" format="dimension"/>
+        <attr name="android:checked" format="boolean" />
+        <attr name="textOn" format="string"/>
+        <attr name="textOff" format="string"/>
+        <attr name="showText" format="boolean" />
+        <attr name="labelPosition" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr name="speed" format="integer"/>
+        <attr name="strokeColorOnSwitchOn" format="color"/>
+        <attr name="strokeColorOnSwitchOff" format="color"/>
+        <attr name="thumbColorOnSwitchOn" format="color"/>
+        <attr name="thumbColorOnSwitchOff" format="color"/>
+        <attr name="backgroundColorOnSwitchOn" format="color"/>
+        <attr name="backgroundColorOnSwitchOff" format="color"/>
+        <attr name="textColorOnSwitchOn" format="color"/>
+        <attr name="textColorOnSwitchOff" format="color"/>
+    </declare-styleable>
+</resources>

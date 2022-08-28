@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CodersRouteWidgets</string>
+    <string name="background_color_off">Background color off</string>
+    <string name="background_color_on">Background color on</string>
+    <string name="thumb_color_on">Thumb color on</string>
+    <string name="text_color_off">Text color off</string>
+    <string name="text_color_on">Text color on</string>
+    <string name="stroke_color_off">Stroke color off</string>
+    <string name="stroke_color_on">Stroke color on</string>
+    <string name="thumb_color_off">Thumb color off</string>
+    <string name="height">Height</string>
+    <string name="width">Width</string>
+</resources>
