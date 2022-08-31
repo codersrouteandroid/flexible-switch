@@ -1,7 +1,7 @@
 # flexible-switch
 
 
-It is an responsive switch in android, it can resize itself according to its size. It's recommended to use it with [ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout) to get better result.
+It is a responsive switch in android, it can resize itself according to its size. It's recommended to use it with [ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout) to get better result.
 
 
 https://user-images.githubusercontent.com/111636054/187066512-20eb4e64-c134-463d-b039-d3c6cac4bd6f.mp4
