@@ -12,7 +12,8 @@ USAGE
 
 Make sure pluginManagement & dependencyResolutionManagement is properly configured in settings.gradle file like this below:
 
-```pluginManagement {
+```settings.gradle
+pluginManagement {
     repositories {
         gradlePluginPortal()
         google()
