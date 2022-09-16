@@ -10,6 +10,27 @@ https://user-images.githubusercontent.com/111636054/187066512-20eb4e64-c134-463d
 USAGE
 -----
 
+Make sure pluginManagement & dependencyResolutionManagement is properly configured in settings.gradle file like this below:
+
+```pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+XML
+-----
+
 Just add FlexibleSwitch in your layout XML and flexible-switch library in your project via Gradle:
 
 ```gradle
